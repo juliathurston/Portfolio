@@ -1,6 +1,7 @@
 
 html {
-  background-image: url('purple-background.jpg'); 
+  background-image: url('purple-background.jpg');
+  background-size: cover;
 }
 
 header {
