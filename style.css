@@ -1,11 +1,11 @@
 
 html {
-  background-image: url('purple-background.jpg');
-  background-size: cover;
+  background-image: url('purple-background.jpg'); /*sets the background to the purple pic*/
+  background-size: cover; /*makes sure pic covers entire page*/
 }
 
 header {
-  m-top: 0;
+  margin-top: 0px; /*top margin of header*/
   padding-bottom: 1px;
   padding-top:30px;
 }
