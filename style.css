@@ -1,1 +1,82 @@
 
+html {
+  background-image: url('purple-background.jpg'); 
+}
+
+header {
+  m-top: 0;
+  padding-bottom: 1px;
+  padding-top:30px;
+}
+
+h1 {
+  color: black;
+  font-family: serif;
+  font-size: 50px;
+  text-align: center;
+  line-height: 2px;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+}
+
+body {
+  margin: 20px
+}
+
+h3 {
+  color: black;
+  font-family: serif;
+  text-align: center;
+}
+
+.aboutme {
+  text-align: left;
+  color: black;
+  font-family: sans-serif;
+  text-align: left;
+  
+}
+
+ol {
+  text-align: left;
+  color: black;
+  font-family: sans-serif;
+  text-align: left;
+}
+
+p {
+  color: black;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  border-radius: 80%;
+}
+
+hr {
+  height: 1px;
+  background-color: black;
+  border: 0.5px solid black; 
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+a {
+  font-family: sans-serif;
+  font-size: 15px;
+  text-align: center;
+  text-decoration: underline;
+  color: black;
+}
+
+
+
+a:link     {color: black;    }
+a:visitied {color: saddlebrown;   }
+a:hover    {color: gray;     }
+a:active   {color: lightgray;}
