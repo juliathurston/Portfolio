@@ -5,29 +5,29 @@ html {
 }
 
 header {
-  margin-top: 0px; /*top margin of header*/
-  padding-bottom: 1px;
+  margin-top: 10px; /*top margin of header*/
+  padding-bottom: 1px; /*space between content and border*/
   padding-top:30px;
 }
 
-h1 {
-  color: black;
+h1 { /*Julia Thurston*/
+  color: black ;
   font-family: serif;
   font-size: 50px;
   text-align: center;
   line-height: 2px;
 }
 
-h2 {
+h2 { /*Software Developer*/
   color: black;
   text-align: center;
 }
 
-body {
+body { 
   margin: 20px
 }
 
-h3 {
+h3 { /*Intro, About Me, Contact*/
   color: black;
   font-family: serif;
   text-align: center;
@@ -41,25 +41,25 @@ h3 {
   
 }
 
-ol {
+ol { /*other interests*/
   text-align: left;
   color: black;
   font-family: sans-serif;
   text-align: left;
 }
 
-p {
+p { 
   color: black;
   font-family: sans-serif;
   text-align: center;
 }
 
-img {
+img { /*pic of me*/
   width: 200px;
   border-radius: 80%;
 }
 
-hr {
+hr { /*horizontal rule*/
   height: 1px;
   background-color: black;
   border: 0.5px solid black; 
@@ -67,7 +67,7 @@ hr {
   margin-bottom: 20px;
 }
 
-a {
+a { /*links to LinkedIn, Github, email*/
   font-family: sans-serif;
   font-size: 15px;
   text-align: center;
@@ -76,7 +76,7 @@ a {
 }
 
 
-
+/*pseudolinks*/
 a:link     {color: black;    }
 a:visitied {color: saddlebrown;   }
 a:hover    {color: gray;     }
